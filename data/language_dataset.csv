@@ -1,0 +1,462 @@
+text,language
+Hello, how are you?,English
+Good morning!,English
+Hi there!,English
+I love programming.,English
+What is your name?,English
+Today is sunny.,English
+See you later.,English
+Have a nice day!,English
+Thank you very much.,English
+Can you help me?,English
+I am learning AI.,English
+Where is the nearest station?,English
+Do you speak English?,English
+I enjoy reading books.,English
+Let's go to the park.,English
+This is my favorite song.,English
+Happy birthday!,English
+What time is it?,English
+I am feeling great today.,English
+Nice to meet you.,English
+I am hungry.,English
+It's raining outside.,English
+My name is John.,English
+I am from India.,English
+Can I ask you a question?,English
+I like traveling.,English
+Where are you from?,English
+I am tired.,English
+Do you like coffee?,English
+I need some water.,English
+I am watching a movie.,English
+This is delicious.,English
+I like music.,English
+How old are you?,English
+I am learning Python.,English
+Let's play a game.,English
+I am going shopping.,English
+The weather is nice.,English
+I love my family.,English
+I am happy.,English
+Please give me directions.,English
+I like sports.,English
+I am studying.,English
+I like to swim.,English
+I am reading a book.,English
+Can you repeat that?,English
+I like chocolate.,English
+I am sleepy.,English
+It is very hot today.,English
+I am going to work.,English
+Hola, ¿cómo estás?,Spanish
+Buenos días!,Spanish
+¡Hola amigo!,Spanish
+Me llamo Juan,Spanish
+Hoy hace sol.,Spanish
+Nos vemos luego.,Spanish
+Que tengas un buen día!,Spanish
+Muchas gracias.,Spanish
+¿Puedes ayudarme?,Spanish
+Estoy aprendiendo IA.,Spanish
+¿Dónde está la estación más cercana?,Spanish
+¿Hablas español?,Spanish
+Me gusta leer libros.,Spanish
+Vamos al parque.,Spanish
+Esta es mi canción favorita.,Spanish
+¡Feliz cumpleaños!,Spanish
+¿Qué hora es?,Spanish
+Me siento muy bien hoy.,Spanish
+Encantado de conocerte.,Spanish
+Tengo hambre.,Spanish
+Está lloviendo afuera.,Spanish
+Mi nombre es Juan.,Spanish
+Soy de España.,Spanish
+¿Puedo hacerte una pregunta?,Spanish
+Me gusta viajar.,Spanish
+¿De dónde eres?,Spanish
+Estoy cansado.,Spanish
+¿Te gusta el café?,Spanish
+Necesito agua.,Spanish
+Estoy viendo una película.,Spanish
+Esto es delicioso.,Spanish
+Me gusta la música.,Spanish
+¿Cuántos años tienes?,Spanish
+Estoy aprendiendo Python.,Spanish
+Vamos a jugar un juego.,Spanish
+Voy de compras.,Spanish
+Hace buen tiempo.,Spanish
+Amo a mi familia.,Spanish
+Estoy feliz.,Spanish
+Por favor, dame direcciones.,Spanish
+Me gusta practicar deportes.,Spanish
+Estoy estudiando.,Spanish
+Me gusta nadar.,Spanish
+Estoy leyendo un libro.,Spanish
+¿Puedes repetir eso?,Spanish
+Me gusta el chocolate.,Spanish
+Tengo sueño.,Spanish
+Hace mucho calor hoy.,Spanish
+Voy al trabajo.,Spanish
+¿Puedes ayudarme con esto?,Spanish
+Estoy emocionado.,Spanish
+Bonjour, comment ça va?,French
+Bon matin!,French
+Salut!,French
+Je m'appelle Pierre,French
+Il fait beau aujourd'hui.,French
+À bientôt!,French
+Bonne journée!,French
+Merci beaucoup.,French
+Pouvez-vous m'aider?,French
+J'apprends l'IA.,French
+Où se trouve la gare la plus proche?,French
+Parlez-vous français?,French
+J'aime lire des livres.,French
+Allons au parc.,French
+C'est ma chanson préférée.,French
+Joyeux anniversaire!,French
+Quelle heure est-il?,French
+Je me sens très bien aujourd'hui.,French
+Enchanté de vous rencontrer.,French
+J'ai faim.,French
+Il pleut dehors.,French
+Je m'appelle Pierre.,French
+Je viens de France.,French
+Puis-je vous poser une question?,French
+J'aime voyager.,French
+D'où venez-vous?,French
+Je suis fatigué.,French
+Aimez-vous le café?,French
+J'ai besoin d'eau.,French
+Je regarde un film.,French
+C'est délicieux.,French
+J'aime la musique.,French
+Quel âge as-tu?,French
+J'apprends Python.,French
+Jouons à un jeu.,French
+Je vais faire du shopping.,French
+Il fait beau temps.,French
+J'aime ma famille.,French
+Je suis heureux.,French
+S'il vous plaît, donnez-moi des directions.,French
+J'aime faire du sport.,French
+J'étudie.,French
+J'aime nager.,French
+Je lis un livre.,French
+Pouvez-vous répéter cela?,French
+J'aime le chocolat.,French
+Je suis fatigué.,French
+Il fait très chaud aujourd'hui.,French
+Je vais travailler.,French
+Pouvez-vous m'aider avec ça?,French
+Je suis excité.,French
+Hallo, wie geht es dir?,German
+Guten Morgen!,German
+Hi!,German
+Ich heiße Max,German
+Heute ist es sonnig.,German
+Bis bald!,German
+Schönen Tag!,German
+Vielen Dank.,German
+Kannst du mir helfen?,German
+Ich lerne KI.,German
+Wo ist der nächste Bahnhof?,German
+Sprichst du Deutsch?,German
+Ich lese gerne Bücher.,German
+Lass uns in den Park gehen.,German
+Das ist mein Lieblingslied.,German
+Alles Gute zum Geburtstag!,German
+Wie spät ist es?,German
+Mir geht es heute sehr gut.,German
+Freut mich, dich kennenzulernen.,German
+Ich habe Hunger.,German
+Es regnet draußen.,German
+Ich heiße Max.,German
+Ich komme aus Deutschland.,German
+Darf ich dir eine Frage stellen?,German
+Ich reise gern.,German
+Woher kommst du?,German
+Ich bin müde.,German
+Magst du Kaffee?,German
+Ich brauche Wasser.,German
+Ich sehe einen Film.,German
+Das ist lecker.,German
+Ich liebe Musik.,German
+Wie alt bist du?,German
+Ich lerne Python.,German
+Lass uns ein Spiel spielen.,German
+Ich gehe einkaufen.,German
+Das Wetter ist schön.,German
+Ich liebe meine Familie.,German
+Ich bin glücklich.,German
+Bitte gib mir eine Wegbeschreibung.,German
+Ich mag Sport.,German
+Ich studiere.,German
+Ich schwimme gern.,German
+Ich lese ein Buch.,German
+Kannst du das wiederholen?,German
+Ich mag Schokolade.,German
+Ich bin müde.,German
+Es ist heute sehr heiß.,German
+Ich gehe zur Arbeit.,German
+Kannst du mir dabei helfen?,German
+Ich bin aufgeregt.,German
+नमस्ते, आप कैसे हैं?,Hindi
+सुप्रभात!,Hindi
+हैलो!,Hindi
+मेरा नाम राहुल है,Hindi
+आज मौसम अच्छा है,Hindi
+जल्दी मिलेंगे!,Hindi
+आपका दिन शुभ हो!,Hindi
+धन्यवाद,Hindi
+क्या आप मेरी मदद कर सकते हैं?,Hindi
+मैं AI सीख रहा हूँ,Hindi
+सबसे नज़दीकी स्टेशन कहाँ है?,Hindi
+क्या आप हिंदी बोलते हैं?,Hindi
+मैं किताबें पढ़ना पसंद करता हूँ,Hindi
+चलो पार्क चलते हैं,Hindi
+यह मेरा पसंदीदा गीत है,Hindi
+जन्मदिन मुबारक!,Hindi
+समय क्या हुआ है?,Hindi
+आज मैं बहुत अच्छा महसूस कर रहा हूँ,Hindi
+आपसे मिलकर खुशी हुई,Hindi
+मुझे भूख लगी है,Hindi
+बाहर बारिश हो रही है,Hindi
+मेरा नाम राहुल है,Hindi
+मैं भारत से हूँ,Hindi
+क्या मैं आपसे एक सवाल पूछ सकता हूँ?,Hindi
+मुझे यात्रा करना पसंद है,Hindi
+आप कहाँ से हैं?,Hindi
+मैं थका हुआ हूँ,Hindi
+क्या आपको कॉफी पसंद है?,Hindi
+मुझे पानी चाहिए,Hindi
+मैं फिल्म देख रहा हूँ,Hindi
+यह स्वादिष्ट है,Hindi
+मुझे संगीत पसंद है,Hindi
+आप कितने साल के हैं?,Hindi
+मैं Python सीख रहा हूँ,Hindi
+आइए एक खेल खेलते हैं,Hindi
+मैं खरीदारी करने जा रहा हूँ,Hindi
+मौसम अच्छा है,Hindi
+मुझे अपने परिवार से प्यार है,Hindi
+मैं खुश हूँ,Hindi
+कृपया मुझे दिशा दिखाएँ,Hindi
+मुझे खेल पसंद हैं,Hindi
+मैं पढ़ाई कर रहा हूँ,Hindi
+मुझे तैरना पसंद है,Hindi
+मैं एक किताब पढ़ रहा हूँ,Hindi
+क्या आप इसे दोहरा सकते हैं?,Hindi
+मुझे चॉकलेट पसंद है,Hindi
+मैं थका हुआ हूँ,Hindi
+आज बहुत गर्मी है,Hindi
+मैं काम पर जा रहा हूँ,Hindi
+क्या आप मेरी मदद कर सकते हैं?,Hindi
+मैं उत्साहित हूँ,Hindi
+Ciao, come stai?,Italian
+Buongiorno!,Italian
+Salve!,Italian
+Mi chiamo Marco,Italian
+Oggi è una bella giornata,Italian
+A presto!,Italian
+Buona giornata!,Italian
+Grazie!,Italian
+Puoi aiutarmi?,Italian
+Sto imparando AI,Italian
+Dov'è la stazione più vicina?,Italian
+Parli italiano?,Italian
+Mi piace leggere libri,Italian
+Andiamo al parco,Italian
+Questa è la mia canzone preferita,Italian
+Buon compleanno!,Italian
+Che ore sono?,Italian
+Oggi mi sento molto bene,Italian
+Piacere di conoscerti,Italian
+Ho fame,Italian
+Sta piovendo fuori,Italian
+Mi chiamo Marco,Italian
+Vengo dall'Italia,Italian
+Posso farti una domanda?,Italian
+Mi piace viaggiare,Italian
+Di dove sei?,Italian
+Sono stanco,Italian
+Ti piace il caffè?,Italian
+Ho bisogno d'acqua,Italian
+Sto guardando un film,Italian
+È delizioso,Italian
+Amo la musica,Italian
+Quanti anni hai?,Italian
+Sto imparando Python,Italian
+Giochiamo a un gioco,Italian
+Vado a fare shopping,Italian
+Il tempo è bello,Italian
+Amo la mia famiglia,Italian
+Sono felice,Italian
+Per favore, indicami la strada,Italian
+Mi piace fare sport,Italian
+Sto studiando,Italian
+Mi piace nuotare,Italian
+Sto leggendo un libro,Italian
+Puoi ripetere?,Italian
+Mi piace il cioccolato,Italian
+Sono stanco,Italian
+Oggi fa molto caldo,Italian
+Vado al lavoro,Italian
+Puoi aiutarmi con questo?,Italian
+Sono emozionato,Italian
+Olá, como você está?,Portuguese
+Bom dia!,Portuguese
+Oi!,Portuguese
+Meu nome é João,Portuguese
+Hoje está ensolarado,Portuguese
+Até logo!,Portuguese
+Tenha um bom dia!,Portuguese
+Muito obrigado.,Portuguese
+Você pode me ajudar?,Portuguese
+Estou aprendendo IA,Portuguese
+Onde fica a estação mais próxima?,Portuguese
+Você fala português?,Portuguese
+Eu gosto de ler livros.,Portuguese
+Vamos ao parque,Portuguese
+Esta é minha música favorita.,Portuguese
+Feliz aniversário!,Portuguese
+Que horas são?,Portuguese
+Hoje estou me sentindo muito bem,Portuguese
+Prazer em conhecê-lo.,Portuguese
+Estou com fome.,Portuguese
+Está chovendo lá fora.,Portuguese
+Meu nome é João.,Portuguese
+Eu sou do Brasil.,Portuguese
+Posso te fazer uma pergunta?,Portuguese
+Eu gosto de viajar.,Portuguese
+De onde você é?,Portuguese
+Estou cansado.,Portuguese
+Você gosta de café?,Portuguese
+Preciso de água.,Portuguese
+Estou assistindo a um filme.,Portuguese
+Isso é delicioso.,Portuguese
+Eu gosto de música.,Portuguese
+Quantos anos você tem?,Portuguese
+Estou aprendendo Python.,Portuguese
+Vamos jogar um jogo.,Portuguese
+Vou fazer compras.,Portuguese
+O tempo está bom.,Portuguese
+Amo minha família.,Portuguese
+Estou feliz.,Portuguese
+Por favor, me dê direções.,Portuguese
+Gosto de esportes.,Portuguese
+Estou estudando.,Portuguese
+Gosto de nadar.,Portuguese
+Estou lendo um livro.,Portuguese
+Você pode repetir isso?,Portuguese
+Gosto de chocolate.,Portuguese
+Estou com sono.,Portuguese
+Está muito quente hoje.,Portuguese
+Vou trabalhar.,Portuguese
+Você pode me ajudar com isso?,Portuguese
+Estou animado.,Portuguese
+Привет, как дела?,Russian
+Доброе утро!,Russian
+Привет!,Russian
+Меня зовут Анна,Russian
+Сегодня солнечно.,Russian
+До скорого!,Russian
+Хорошего дня!,Russian
+Большое спасибо.,Russian
+Вы можете мне помочь?,Russian
+Я изучаю ИИ,Russian
+Где ближайшая станция?,Russian
+Вы говорите по-русски?,Russian
+Мне нравится читать книги.,Russian
+Пойдем в парк.,Russian
+Это моя любимая песня.,Russian
+С днем рождения!,Russian
+Который час?,Russian
+Сегодня я чувствую себя прекрасно.,Russian
+Приятно познакомиться.,Russian
+Я голоден.,Russian
+На улице идет дождь.,Russian
+Меня зовут Анна.,Russian
+Я из России.,Russian
+Могу я задать вопрос?,Russian
+Мне нравится путешествовать.,Russian
+Откуда вы?,Russian
+Я устал.,Russian
+Вам нравится кофе?,Russian
+Мне нужна вода.,Russian
+Я смотрю фильм.,Russian
+Это вкусно.,Russian
+Мне нравится музыка.,Russian
+Сколько тебе лет?,Russian
+Я учу Python.,Russian
+Давай сыграем в игру.,Russian
+Я иду за покупками.,Russian
+Погода хорошая.,Russian
+Я люблю свою семью.,Russian
+Я счастлив.,Russian
+Пожалуйста, покажите мне дорогу.,Russian
+Мне нравится спорт.,Russian
+Я учусь.,Russian
+Мне нравится плавать.,Russian
+Я читаю книгу.,Russian
+Можете повторить?,Russian
+Мне нравится шоколад.,Russian
+Я устал.,Russian
+Сегодня очень жарко.,Russian
+Я иду на работу.,Russian
+Вы можете мне помочь с этим?,Russian
+Я взволнован.,Russian
+こんにちは、お元気ですか？,Japanese
+おはようございます!,Japanese
+やあ!,Japanese
+私の名前はタカシです,Japanese
+今日は晴れです。,Japanese
+またね!,Japanese
+良い一日を！,Japanese
+ありがとうございます。,Japanese
+手伝ってくれますか？,Japanese
+私はAIを勉強しています。,Japanese
+最寄りの駅はどこですか？,Japanese
+日本語を話せますか？,Japanese
+私は本を読むのが好きです。,Japanese
+公園に行きましょう。,Japanese
+これは私のお気に入りの歌です。,Japanese
+お誕生日おめでとう！,Japanese
+今何時ですか？,Japanese
+今日はとても気分がいいです。,Japanese
+はじめまして。,Japanese
+お腹が空きました。,Japanese
+外は雨が降っています。,Japanese
+私の名前はタカシです。,Japanese
+私は日本から来ました。,Japanese
+質問してもいいですか？,Japanese
+旅行が好きです。,Japanese
+あなたはどこから来ましたか？,Japanese
+疲れました。,Japanese
+コーヒーは好きですか？,Japanese
+水が必要です。,Japanese
+映画を見ています。,Japanese
+これは美味しいです。,Japanese
+音楽が好きです。,Japanese
+何歳ですか？,Japanese
+Pythonを勉強しています。,Japanese
+ゲームをしましょう。,Japanese
+買い物に行きます。,Japanese
+天気がいいです。,Japanese
+家族が大好きです。,Japanese
+私は幸せです。,Japanese
+道を教えてください。,Japanese
+スポーツが好きです。,Japanese
+勉強しています。,Japanese
+泳ぐのが好きです。,Japanese
+本を読んでいます。,Japanese
+もう一度言ってくれますか？,Japanese
+チョコレートが好きです。,Japanese
+疲れました。,Japanese
+今日はとても暑いです。,Japanese
+仕事に行きます。,Japanese
+これを手伝ってくれますか？,Japanese
+楽しみです。,Japanese
+
+
+
